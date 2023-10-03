@@ -1,0 +1,12 @@
+{
+  "name": "2_practice-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rohit_Soni",
+  "license": "ISC"
+}
