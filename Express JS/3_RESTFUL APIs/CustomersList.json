@@ -1,0 +1,32 @@
+[
+   {
+      "id": 1,
+      "entity": "customer",
+      "name": "Gauri Kumari",
+      "email": "gauri.kumari@example.com",
+      "contact": "9123456789",
+      "gstin": null,
+      "notes": [],
+      "created_at": 1653915355
+    },
+    {
+      "id": 2,
+      "entity": "customer",
+      "name": "Rohit Soni",
+      "email": "rohit.soni@example.com",
+      "contact": "2222211111",
+      "gstin": null,
+      "notes": [],
+      "created_at": 1691443323
+    },
+    {
+      "id": 3,
+      "entity": "customer",
+      "name": "Tarun Soni",
+      "email": "tarun.soni@example.com",
+      "contact": "111115555555",
+      "gstin": null,
+      "notes": [],
+      "created_at": 18763634654
+    }
+]
